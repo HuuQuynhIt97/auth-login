@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\Angular\SYSTEM\dmr-auth-login\webapi\Authentication\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-20T04:18:41.1191967Z;True|2021-07-14T15:29:13.7195997+07:00;False|2021-06-11T14:54:46.4002652+07:00;True|2021-06-01T08:45:48.1402848+07:00;True|2021-06-01T08:44:18.0199313+07:00;True|2021-06-01T08:32:30.7488251+07:00;True|2021-05-24T16:09:47.2372482+07:00;True|2021-05-24T15:39:02.0421064+07:00;False|2021-05-24T15:36:20.7758873+07:00;False|2021-05-24T15:36:07.1443631+07:00;True|2021-05-24T11:30:45.6041770+07:00;True|2021-05-18T16:05:33.0670414+07:00;True|2021-05-18T15:29:55.8372208+07:00;True|2021-05-18T15:18:11.5455486+07:00;True|2021-05-18T14:48:15.9367555+07:00;True|2021-05-18T14:46:42.9923691+07:00;</History>
+  </PropertyGroup>
+</Project>
